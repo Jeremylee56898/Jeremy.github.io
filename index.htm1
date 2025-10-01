@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <title>李念恩的履歷</title>
+  <style>
+    body {
+      font-family: "Helvetica", "Arial", sans-serif;
+      margin: 40px;
+      background-color: #f0f4f8;
+      color: #333;
+      line-height: 1.8;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .contact {
+      font-size: 1rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>李念恩</h1>
+    <p class="contact">
+      📧 jeremylee82678267@gmail.com<br>
+      📍 台北
+    </p>
+
+    <h2>性格</h2>
+    <p>ENFJ（熱情、負責、有領導力，樂於幫助他人）</p>
+
+    <h2>技能</h2>
+    <ul>
+      <li>友善溝通能力</li>
+      <li>轉書精通</li>
+      <li>魔術方塊</li>
+      <li>直笛演奏</li>
+      <li>團隊合作</li>
+    </ul>
+
+    <h2>興趣</h2>
+    <ul>
+      <li>打籃球、桌球、羽球、排球</li>
+      <li>和朋友出去玩、看電影、聽音樂、看小說</li>
+      <li>打電動、吃好吃的東西、玩桌遊、陪動物玩</li>
+    </ul>
+
+    <h2>學歷</h2>
+    <ul>
+      <li>南港高中 - 畢業</li>
+      <li>內湖國中 - 畢業</li>
+    </ul>
+
+    <h2>經歷與表現</h2>
+    <ul>
+      <li>國小模範生</li>
+      <li>國中擔任體育股長（2年）、風紀股長、衛生股長</li>
+      <li>高中擔任歷史小老師、化學小老師</li>
+      <li>高中班級代表（2年）</li>
+      <li>獲得局長獎畢業</li>
+      <li>成績穩定，曾獲段考全校第一、分科模擬考第一</li>
+    </ul>
+  </div>
+</body>
+</html>
